@@ -7,8 +7,8 @@
 
 - 👷 Formada Técnica em Redes de Computadores, graduada em Gestão Financeira e com Pós-Graduação em Data Science pela Anhembi Morumbi.
 - 💻 Tenho 5 anos de experiência na área técnológica, passei por Analista de Suporte, CX, Operações e Dados, atuei em projetos com foco na otimização de processos e no desenvolvimento de estruturas de dados, incluindo a modelagem e criação de tabelas em banco de dados para melhor organização e análise das informações.
-- 🔭 Atualmente estou em busca de oportunidades na área de Dados. Tenho 3 anos de experiência na DreamShaper, sendo 2 anos atuando como Analista de Dados, trabalhando com criação de dashboards, estruturação de tabelas em banco de dados (MySQL), análise e limpeza de grandes volumes de dados em planilhas e apoio à tomada de decisão com base em dados.
-- 📊 Já tive contato com diferentes áreas de negócio, como Comercial, CX, B2B e Gestão, colaborando com análises e insights para apoiar melhorias de processos e decisões estratégicas.
+- 🔭 Atualmente estou em busca de oportunidades na área de Dados. Tenho 3 anos de experiência na DreamShapercom atuação de Analista de Dados, trabalhando com criação de dashboards, estruturação de tabelas em banco de dados (MySQL), análise e limpeza de grandes volumes de dados e suporte com análise que apoiaram neg[ocios em tomada de decisão.
+- 📊 Já tive contato com diferentes áreas de negócio, como Comercial, CX, B2B e Gestão, realizei análises estratégicas focadas em indicadores de Negócio para melhorias de processos e decisões.
 
 Aqui compartilho alguns dos meus principais projetos e estudos em dados. Espero que sejam úteis!
 
